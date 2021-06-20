@@ -1,0 +1,28 @@
+* {
+  background-color: whitesmoke;
+}
+#heading {
+  margin-top: 80px;
+  color: rgb(10, 10, 223);
+  font-weight: bolder;
+  font-size: 75px;
+}
+#headpara {
+  font-size: 26px;
+}
+.row {
+  margin-top: 180px;
+}
+
+#input {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+.btn-success {
+  padding: 10px !important;
+}
+#form {
+  padding: 30px;
+  background-color: white;
+  border-radius: 14px;
+}
